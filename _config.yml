@@ -6,16 +6,20 @@ title: refine
 year: 2015
 email: refine@bluetree.jp
 description: "publication translation and proofreading"
-objective: "Leave the proofreading or translation of your publication to us!"
-detail: "We can guarantee your publication will in native English and provide complete support for you until it is ready."
+objective: "Let us take care of your proofreading or translation!"
+detail: "We can guarantee your publication will be in native English and provide support for you until it is complete."
 
-service1: translation
-service2: proofreading
-service3: support
-service4: speed
+service1: Speed
+service1detail: Our efficient workflow shows how we are always complete and on time.
+service2: Translation
+service2detail: Translation services range from a variety of formats.
+service3: Proofreading
+service3detail: Our proofreading is specialized in the bio-informatical field.
+service4: Support
+service4detail: Support for your paper will be available from first upload to publication.
 
-motto: native english speakers at your service
-getstarted: If you have a document ready, we can scan it and quote a price, or just check our pricing table.
+motto: native english, native support
+getstarted: If you have a document ready, we can scan it and quote a price, or you can simply check our pricing table.
 permalink: date
 
 paginate: 4
